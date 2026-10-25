@@ -15,8 +15,8 @@ Generated custom distributions via the Inverse Transform Method and built random
 
 Programming and Numerical Analysis
 
-Implemented root-finding algorithms, including bisection (with error bound verification), Newton-Raphson, and fixed-point iteration for implicit loan interest rates.   
+Implemented root-finding algorithms, including bisection (with error bound verification), Newton-Raphson, and fixed-point iteration for implicit loan interest rates. 
 Constructed composite numerical quadrature routines (Trapezoidal and Simpson's 1/3 rules) and conducted step-size error convergence analysis.   
-Solved a 2D Monte Carlo rejection sampling for area estimation, continuous renewal process simulations, using Lagrange polynomial interpolation, and piecewise linear splines.   
+Used Monte Carlo simulations for 2D area estimation and renewal processes, along with Lagrange polynomials and linear splines for data interpolation.
 
 If you have any questions I would love to hear it! 
